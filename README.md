@@ -15,11 +15,15 @@ Fits Anywhere: Plays nicely on your phone, tablet, or computer. No squishing! �
 
 📸 Sneak Peek!
 Here’s a glimpse of what the quiz looks like. You'll need to replace these placeholder links with your actual project screenshots!
+
 Ready, Set, Go! (Start Screen):
+![Alt text for start screen](images/Screenshot 2025-08-12 204039.png)
 
 Mid-Quiz Madness (In Progress):
+![Alt text for start screen](images/Screenshot 2025-08-12 204602.png)
 
 The Big Reveal (Result Screen):
+![Alt text for start screen](images/Screenshot 2025-08-12 204618.png)
 
 🛠️ What Made This Happen?
 This little game is built with the good old web trio:
