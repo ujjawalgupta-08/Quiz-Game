@@ -17,13 +17,13 @@ Fits Anywhere: Plays nicely on your phone, tablet, or computer. No squishing! �
 Here’s a glimpse of what the quiz looks like. You'll need to replace these placeholder links with your actual project screenshots!
 
 Ready, Set, Go! (Start Screen):
-![Alt text for start screen](Images/startquiz.png)
+![Alt text for start screen](images/startquiz.png)
 
 Mid-Quiz Madness (In Progress):
-![Alt text for start screen](Images/quiz.png)
+![Alt text for start screen](images/quiz.png)
 
 The Big Reveal (Result Screen):
-![Alt text for start screen](Images/resultpage.png)
+![Alt text for start screen](images/resultpage.png)
 
 🛠️ What Made This Happen?
 This little game is built with the good old web trio:
